@@ -105,11 +105,7 @@ def play_game():
             print("Invalid action. Please enter 'G' to guess a letter or 'H' for a hint.")
 
 def display_credits():
-    """
-    Display the designed by Prahlad message.
-    """
     print("\nDesigned by Prahlad")
 
-# Main program
 play_game()
 display_credits()
